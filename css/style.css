@@ -26,7 +26,7 @@
   font-size: 2em;
 }
 
-taskbody {
+body {
   background-color: #cccccc;
   background-image: -webkit-linear-gradient(top, #eee 0%, #fff); /* Chrome10+,Safari5.1+ */
   background-image:    -moz-linear-gradient(top, #eee 0%, #fff); /* FF3.6+ */

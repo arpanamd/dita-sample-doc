@@ -25,7 +25,9 @@
 .topictitle2 {
   font-size: 2em;
 }
-
+cmd {
+  background-color: #cccccc;
+}
 body {
   background-color: #cccccc;
   background-image: -webkit-linear-gradient(top, #eee 0%, #fff); /* Chrome10+,Safari5.1+ */

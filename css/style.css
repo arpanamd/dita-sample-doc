@@ -96,8 +96,8 @@ nav[role='toc'] {
   float: right;
   max-width: 200px;
   font-size: small;
-  border-left: 1000px solid #70A300;
-  margin-left: 1em;
+  border-left: 1px solid #70A300;
+  margin-left: 100em;
 }
 nav[role='toc'] > ul {
   margin-top: 0;
